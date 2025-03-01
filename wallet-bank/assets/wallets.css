@@ -110,6 +110,11 @@ button {
     border: none;
     transition: 0.3s;
     cursor: pointer;
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
 }
 
 button:hover {
